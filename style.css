@@ -38,12 +38,15 @@ h3 {
   left: 30px;
   top: 30px;
 }
-.links p {
+.links p,
+.links,
+h1,
+h2 {
   color: black;
 }
 .links {
   position: relative;
   left: 80px;
   top: 50px;
-  color: black;
+  /* color: black; */
 }
